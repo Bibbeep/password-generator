@@ -15,7 +15,7 @@ This is a simple password generator program written in C. It generates random pa
 1. Clone the repository
 
 ```sh
-git clone 
+git clone https://github.com/Bibbeep/password-generator.git
 cd password-generator
 ```
 
